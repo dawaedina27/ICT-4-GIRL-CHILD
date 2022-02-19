@@ -14,6 +14,7 @@ Applicant: Dawa Edina Hillary
 	Project Name: ICT for Girl Child 
 	Collaborating Hub: Platform Africa
 
+![](/photo_2022-02-19_19-00-10.jpg)
 
 # Project Location
 The Project was implemented in Ocea zone Rhino Camp refugee settlement, Madi – Okollo District
