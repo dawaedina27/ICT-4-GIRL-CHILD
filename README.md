@@ -30,6 +30,7 @@ End Date: 18, February 2022
 
 
 # Overall Assessment
+ ![](/photo_2022-02-19_18-58-38.jpg)
 The project started with the implementation activities; Mobilization and identification of the participants, mobilization of resources, logistics and purchase which was done successfully by the colaborating partners.
 
 Followed by the actual training/ mentorship activitie; 
