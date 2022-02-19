@@ -7,6 +7,7 @@
 According to the UNHCR report Globally, refugees are 50 percent less likely than the general  population to have an Internet-capable phone. While 20 percent of rural refugees have no  access to connectivity, urban refugees often have access but cannot afford to get online. But these numbers shot higher during the Pandemic since most of the Physical aspects of  life were pushed to the virtual world, which includes education, social interaction, and livelihood  But as much as the internet can be a source of information and education content, it can also be  a source of Hate speech, cyber bullying and inhumane content that can affect the daily lives of  these refugees who many have yet little or no maximum knowledge of how to make it Amongst  the most affected users are girls of the age 15-35 who are mostly victims of cyberbullying and  illicit content on the internet By the availability of spaces like Platform Africa, CTEN innovation space, and other internet  providing spaces in Rhino camp refugee settlement internet penetration has hiked which comes  with the fear of the irresponsible use of the internet and hence a need for a civic education 
 
 ICT for Girl Child (ICT4GC) seeks to address this challenge by educating the girlchild  community with skills on the responsible use of the internet to not only use it to develop  themselves but to rather become aware and act as advocates for the responsible use of the  internet
+![](/photo_2022-02-19_18-55-39.jpg)
 
 # Applicant (Organization) (+ possibly Partner Organization(s))
 Applicant: Dawa Edina Hillary 
