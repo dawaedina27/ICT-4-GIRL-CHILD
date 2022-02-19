@@ -49,6 +49,7 @@ Followed by the actual training/ mentorship activitie;
 The final activity done was reporting which involed the findings from the participants feedback and partners evaluation.
 
 From the point of view of the participants (target group) through the feedback mechnism and from the collaborting partners through the evaluation session, the project was successfully because the collaborating partners worked as a team.
+ ![](/photo_2022-02-19_18-59-31.jpg)
 
 # Risk factors and risk-mitigating measures
 
