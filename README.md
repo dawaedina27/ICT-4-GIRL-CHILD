@@ -34,7 +34,7 @@ Start Date: 18, February 2022
 
 End Date: 18, February 2022 
 
-![](/photo_2022-02-19_18-59-42.jpg)![](/photo_2022-02-19_18-59-42.jpg)
+![](/photo_2022-02-19_18-59-42.jpg)
 
 # Overall Assessment
 
