@@ -21,7 +21,7 @@ The Project was implemented in Ocea zone Rhino Camp refugee settlement, Madi –
 s as of statistics from Platform Africa. And as well double the age that suffers from cyberbullying on the internet.
 
 The actual participants who turned up for the mentorship were This project targeted 10 young girls aged 15-35 who are the prominent age group having access to gadgets and using the internet in the various internet providing space11; 10 females and 1 male, 9 refugees and 2 were from the host community.
-
+https://github.com/dawaedina27/expert-octo-palm-tree/commit/af1d508d29783bd6b03d8af3bb14dcde6182425d#diff-4693eb5533d3f1f350826f0907e566e980648c4a853b1a25de0f1fe85acfe79b
 
 # Implementation Period
 Start Date: 18, February 2022 
