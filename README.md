@@ -17,6 +17,7 @@ Applicant: Dawa Edina Hillary
 
 # Project Location
 The Project was implemented in Ocea zone Rhino Camp refugee settlement, Madi – Okollo District
+![](/photo_2022-02-19_18-58-58.jpg)
 
 # Target group / audience 
 s as of statistics from Platform Africa. And as well double the age that suffers from cyberbullying on the internet.
