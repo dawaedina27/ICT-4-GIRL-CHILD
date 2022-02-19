@@ -65,3 +65,4 @@ Email dawaedina27@gmail.com
 Mobile Number +256773980929 / +256787577005 
 Social Media contact LinkedIn: https://www.linkedin.com/in/dawa-edina b75161168 
 Facebook: https://www.facebook.com/profile.php?id=100004011392292
+ ![](/photo_2022-02-19_19-00-31.jpg)
