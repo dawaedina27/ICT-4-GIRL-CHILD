@@ -56,6 +56,7 @@ From the point of view of the participants (target group) through the feedback m
 There was technical problem with the router hence no internet connections
 (Hotspot was used which mitigated the risk)
 
+ ![](/photo_2022-02-19_19-00-06.jpg)
 
 # Contact Data
 Name Dawa Edina Hillary Position Team leader 
