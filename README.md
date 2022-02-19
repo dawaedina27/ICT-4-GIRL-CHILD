@@ -9,8 +9,8 @@ ICT for Girl Child (ICT4GC) seeks to address this challenge by educating the gir
 
 # Applicant (Organization) (+ possibly Partner Organization(s))
 Applicant: Dawa Edina Hillary 
-1.3	Project Name: ICT for Girl Child 
-1.4	Collaborating Hub: Platform Africa
+	Project Name: ICT for Girl Child 
+	Collaborating Hub: Platform Africa
 
 
 # Project Location
@@ -20,8 +20,7 @@ The Project was implemented in Ocea zone Rhino Camp refugee settlement, Madi –
 s as of statistics from Platform Africa. And as well double the age that suffers from cyberbullying on the internet.
 
 The actual participants who turned up for the mentorship were This project targeted 10 young girls aged 15-35 who are the prominent age group having access to gadgets and using the internet in the various internet providing space11; 10 females and 1 male, 9 refugees and 2 were from the host community.
-(max ¼ page)
-Please indicate how many people from the target group(s) stated in the project application actually participated in the project. Please differentiate by groups of people if applicable, e.g. women / men, children / youth, minorities, people with disabilities, etc. 
+
 
 # Implementation Period
 Start Date: 18, February 2022 
