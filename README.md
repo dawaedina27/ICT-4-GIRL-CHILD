@@ -1,6 +1,6 @@
 # ICT 4 GIRL CHILD
 
-![](/
+![](/photo_2022-02-19_18-59-59.jpg)
 
 # Problem Statement
 
